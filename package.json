@@ -1,0 +1,26 @@
+{
+  "name": "login-system",
+  "version": "1.0.0",
+  "description": "\"# userLogin-v1\"",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abheetkumar1999/userLogin-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abheetkumar1999/userLogin-v1/issues"
+  },
+  "homepage": "https://github.com/abheetkumar1999/userLogin-v1#readme",
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "npm:null@*",
+    "body-parser": "npm:null@*",
+    "express": "npm:null@*"
+  }
+}
